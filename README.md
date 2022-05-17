@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **quentin.destefanis@gmail.com**
 
-- ⚡ Fun fact **I'm always the funny guy of the group**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quentin-destefanis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quentin-destefanis/" height="30" width="40" /></a>
