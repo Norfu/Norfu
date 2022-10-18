@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin DESTEFANIS</h1>
 <h3 align="center">Passionate back-end developper from France</h3>
 
-- 🔭 I’m currently working on MNS Location [MnsLocation5](https://github.com/Daxter0/MnsLocation5)
-
 - 🌱 I’m currently learning C# **ASP.NET CORE MVC / XAMARIN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Norfu](https://github.com/Norfu)
