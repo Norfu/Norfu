@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin DESTEFANIS</h1>
 <h3 align="center">Passionate back-end developper from France</h3>
 
-- 🌱 I’m currently learning JS FullStack and C# (.NET)**
+- 🌱 I’m currently learning C# Blazor(.NET Core) and a bit JS FullStack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Norfu](https://github.com/Norfu)
 
